@@ -3,7 +3,7 @@
 int main(void){
     int a;
     int b=5; //整数型
-    double c=3.14;　// 小数型
+    double c = 3.14;
     char d='A'; // 文字型
 
     printf("a=%d\n", a);
