@@ -3,10 +3,10 @@
 int main(void){
     int a;
     scanf("%d", &a); // 整数型の変数aに値を入力する
-    char c;
+    char d;
     scanf(" %c", &d); // 文字型の変数dに値を入力する
 
-    double d;
+    double c;
     scanf("%lf", &c); // 小数型の変数cに値を入力する
 
     printf("%d, %c, %f\n", a, d, c);
