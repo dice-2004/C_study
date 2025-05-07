@@ -2,7 +2,7 @@
 
 int main(void){
     char d;
-    scanf("%d", &a);
+    scanf("%d", &d);
 
     // 条件分岐
     return 0;

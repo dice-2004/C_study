@@ -6,3 +6,4 @@ int main(void){
         printf("%d\n",numbers[i]);
     }
 }
+

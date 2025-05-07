@@ -10,6 +10,7 @@ int main(void){
     scanf("%lf", &c); // 小数型の変数cに値を入力する
 
     printf("%d, %c, %f\n", a, d, c);
-
+    scanf("%d %f %c", &a, &c, &d); //まとめて入力
+    printf("%d, %c, %f\n", a, d, c);
     return 0;
 }
